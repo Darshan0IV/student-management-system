@@ -15,3 +15,6 @@ Data is stored in a file for persistence between program runs.
 1. Clone the repository:
    ```bash
    git clone https://github.com/Darshan0IV/student-management-system.git
+## Output
+
+![Program Output](output.png)
